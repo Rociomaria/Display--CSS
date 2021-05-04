@@ -1,0 +1,17 @@
+h1 {
+    display: inline-block;
+}
+p {
+    display: inline-block;
+}
+
+input {
+    display: block;
+}
+
+button {
+    display: block;
+}
+.elementos-en-linea {
+    display: inline-block;
+}
